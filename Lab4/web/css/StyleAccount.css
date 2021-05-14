@@ -1,0 +1,45 @@
+.navbar{
+    box-sizing: border-box;
+    background: black;
+}
+#img-main{
+    box-sizing: border-box;
+    background-size: cover;
+}
+.col-md-7{
+    box-sizing: border-box;
+    background: #072C47;
+    height: 320px;
+}
+.col-md-5{
+    box-sizing: border-box;
+    background: #D8DFDB;
+    height: 320px;
+}
+
+#img-lb{
+    box-sizing: border-box;
+    width: 402px;
+    height: 273px;
+    left: 441px;
+    top: 469px;
+    border-radius: 20px;
+}
+.img-lb{
+    box-sizing: border-box;
+    margin-left: 550px;
+}
+#text-rb{
+    box-sizing: border-box;
+    width: 388px;
+    height: 273px;
+    left: 29px;
+    top: 469px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    background-color: azure;
+}

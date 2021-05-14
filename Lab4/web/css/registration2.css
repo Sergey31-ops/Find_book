@@ -1,0 +1,34 @@
+body{
+    font-family: Raleway,sans-serif;
+    margin: 0px;
+    font-weight: 200;
+}
+.info{
+    margin: auto;
+}
+h2,h1{
+    text-align: center;
+}
+.form{
+    margin: auto;
+    width: 516px;
+    height: 508px;
+
+    background: #D8DFDB;
+    border-radius: 15px;
+}
+#steps{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 373px;
+
+}
+#1-4{
+    position: absolute;
+    width: 87px;
+    height: 47px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin-top: 78px;
+    margin-left: 373px;
+}

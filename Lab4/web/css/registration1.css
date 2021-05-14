@@ -1,0 +1,92 @@
+body{
+    font-family: Raleway,sans-serif;
+    margin: 0px;
+    font-weight: 200;
+}
+.info{
+    margin: auto;
+    }
+h2,h1{
+    text-align: center;
+}
+.form{
+    margin: auto;
+    width: 516px;
+    height: 508px;
+
+    background: #D8DFDB;
+    border-radius: 15px;
+}
+#steps{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 373px;
+
+}
+#name{
+    position: absolute;
+    width: 392px;
+    height: 47px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.5);
+    margin-top: 72px;
+    margin-left: 59px;
+    border: #FFFFFF;
+}
+#surname{
+    position: absolute;
+    width: 392px;
+    height: 47px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.5);
+    margin-top: 139px;
+    margin-left: 59px;
+    border: #FFFFFF;
+}
+#patronymic{
+    position: absolute;
+    width: 392px;
+    height: 47px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.5);
+    margin-top: 206px;
+    margin-left: 59px;
+    border: #FFFFFF;
+}
+#number{
+    position: absolute;
+    width: 392px;
+    height: 47px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin-top: 273px;
+    margin-left: 59px;
+    border: #FFFFFF;
+}
+.birthday{
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 186px;
+}
+
+#date{
+    position: absolute;
+    width: 319px;
+    height: 47px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin-top: 380px;
+    margin-left: 95px;
+    border: white;
+}
+#btn{
+    position: relative;
+    width: 132px;
+    height: 40px;
+    margin-top: 453px;
+    margin-left: 322px;
+}
